@@ -16,7 +16,7 @@ git clone https://github.com/ruanmartinelli/module-starter-typescript.git <name>
 
 **2. Edit fields on [package.json](./package.json):**
 
-```json
+```js
 {
   "name": "module-name",
   "repository": "module-repo",
