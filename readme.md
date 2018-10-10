@@ -8,21 +8,30 @@
 
 ## Getting started
 
-1. Clone the repository:
+**1. Clone the repository:**
 
 ```bash
 git clone https://github.com/ruanmartinelli/module-starter-typescript.git <name>
 ```
 
-2. Edit `name`, `repository` and `author` fields on [package.json](./package.json).
+**2. Edit fields on [package.json](./package.json):**
 
-3. Install dependencies:
+```json
+{
+  "name": "module-name",
+  "repository": "module-repo",
+  "author": "your-info"
+  // ...
+}
+```
+
+**3. Install dependencies:**
 
 ```bash
 yarn install
 ```
 
-4. Add your library code on `src/` and tests on `/test`.
+**4. Add your library code on `src/` and tests on `/test`.**
 
 ## Scripts
 
