@@ -13,19 +13,21 @@
     "prepublishOnly": "make prepublish",
     "test": "make test",
     "lint": "make lint",
-    "coverage": "make coverage"
+    "coverage": "make coverage",
+    "precommit": "make lint && git add ."
   },
   "devDependencies": {
     "@types/jest": "^23.3.5",
     "@types/node": "^10.11.6",
+    "del-cli": "^1.1.0",
+    "husky": "^1.1.1",
     "jest": "^23.6.0",
     "prettier": "^1.14.3",
     "ts-jest": "^23.10.4",
     "tslint": "^5.11.0",
     "tslint-config-prettier": "^1.15.0",
     "tslint-config-standard": "^8.0.1",
-    "typescript": "^3.1.2",
-    "del-cli": "^1.1.0"
+    "typescript": "^3.1.2"
   },
   "jest": {
     "transform": {
