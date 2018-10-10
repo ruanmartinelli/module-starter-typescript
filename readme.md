@@ -1,6 +1,7 @@
 # module-starter-typescript
 
 [![Build Status][travis]](https://travis-ci.org/ruanmartinelli/module-starter-typescript)
+[![coverage][codecov]](https://codecov.io/gh/ruanmartinelli/module-starter-typescript)
 [![Node.js version][node-version]][node-version]
 [![Jest][jest]][jest]
 [![GNU Make][make]][make]
@@ -78,3 +79,4 @@ MIT © [Ruan Martinelli](https://github.com/ruanmartinelli)
 [jest]: https://img.shields.io/badge/tested_with-jest-99424f.svg
 [make]: https://img.shields.io/badge/Built%20with-GNU%20Make-brightgreen.svg
 [travis]: https://travis-ci.org/ruanmartinelli/module-starter-typescript.svg?branch=master
+[codecov]: https://codecov.io/gh/ruanmartinelli/module-starter-typescript/branch/master/graph/badge.svg
