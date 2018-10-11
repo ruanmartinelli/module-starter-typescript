@@ -40,31 +40,31 @@ yarn install
 
 All scripts are defined on the `Makefile`.
 
-- Compile TypeScript files:
+Compile TypeScript files:
 
 ```bash
 make build
 ```
 
-- Lint files:
+Lint files:
 
 ```bash
 make lint
 ```
 
-- Run tests:
+Run tests:
 
 ```bash
 make test
 ```
 
-- Show coverage report:
+Show coverage report:
 
 ```bash
 make coverage
 ```
 
-- Remove auto-generated folders:
+Remove auto-generated folders:
 
 ```bash
 make clean
