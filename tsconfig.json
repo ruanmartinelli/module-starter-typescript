@@ -6,12 +6,11 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "pretty": true,
+    "strict": true,
     "sourceMap": true,
     "declaration": true,
-    "noImplicitAny": true,
     "noUnusedLocals": true,
     "removeComments": true,
-    "strictNullChecks": true,
     "noImplicitReturns": true,
     "esModuleInterop": true
   },

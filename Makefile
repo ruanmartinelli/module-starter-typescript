@@ -16,5 +16,8 @@ test:
 coverage:
 	yarn jest --coverage
 
+release:
+	npx np
+
 .PHONY: test coverage
 .SILENT: build
