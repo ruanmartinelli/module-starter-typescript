@@ -1,6 +1,5 @@
 # module-starter-typescript
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/ruanmartinelli/module-starter-typescript.svg)](https://greenkeeper.io/)
 [![Build Status][travis]](https://travis-ci.org/ruanmartinelli/module-starter-typescript)
 [![coverage][codecov]](https://codecov.io/gh/ruanmartinelli/module-starter-typescript)
 [![Node.js version][node-version]][node-version]
