@@ -9,6 +9,7 @@
   "engines": {
     "node": ">=6.0.0"
   },
+  "prettier": "@ruanmartinelli/prettier-config",
   "scripts": {
     "prepublishOnly": "make prepublish",
     "test": "make test",
@@ -17,11 +18,11 @@
     "precommit": "make lint && git add ."
   },
   "devDependencies": {
+    "@ruanmartinelli/prettier-config": "^1.0.0",
     "@types/jest": "^24.0.15",
     "@types/node": "^12.0.10",
     "codecov": "^3.5.0",
     "del-cli": "^1.1.0",
-    "husky": "^1.3.1",
     "jest": "^24.8.0",
     "prettier": "^1.18.2",
     "ts-jest": "^24.0.2",
