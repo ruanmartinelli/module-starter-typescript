@@ -24,7 +24,7 @@
     "codecov": "^3.6.5",
     "del-cli": "^1.1.0",
     "jest": "^24.9.0",
-    "prettier": "^1.19.1",
+    "prettier": "^2.0.2",
     "ts-jest": "^24.3.0",
     "tslint": "^5.20.1",
     "tslint-config-prettier": "^1.18.0",
