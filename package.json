@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@ruanmartinelli/prettier-config": "^1.0.0",
-    "@types/jest": "^24.9.1",
+    "@types/jest": "^26.0.0",
     "@types/node": "^12.12.21",
     "codecov": "^3.6.5",
     "del-cli": "^1.1.0",
